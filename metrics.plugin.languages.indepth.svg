@@ -16,17 +16,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 56.8kb of code in 135 edited files across 71 commits over last 29 days</small>
+                <small>estimation from 56kb of code in 136 edited files across 69 commits over last 29 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="330.89705921279017" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="330.89705921279017" y="0" width="100.98837978771276" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="431.8854390005029" y="0" width="23.731173403213425" height="8" fill="#336790"/>
-                    <rect mask="url(#languages-bar)" x="455.6166124037163" y="0" width="4.091161756531406" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.7077741602477" y="0" width="0.2922258397522433" height="8" fill="#a53b70"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="359.9908105624476" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="359.9908105624476" y="0" width="71.30192707911024" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="431.29273764155784" y="0" width="24.231465715289602" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="455.52420335684747" y="0" width="4.177410200275683" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.7016135571231" y="0" width="0.2983864428768345" height="8" fill="#a53b70"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,9 +38,9 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>1.02k lines</div>
-                                <div>27.1 kB</div>
-                                <div>71.93%</div>
+                                <div>1.09k lines</div>
+                                <div>28.9 kB</div>
+                                <div>78.26%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -51,9 +51,9 @@
                                 HCL
                             </div>
                             <small>
-                                <div>324 lines</div>
-                                <div>8.29 kB</div>
-                                <div>21.95%</div>
+                                <div>253 lines</div>
+                                <div>5.74 kB</div>
+                                <div>15.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -66,7 +66,7 @@
                             <small>
                                 <div>42 lines</div>
                                 <div>1.95 kB</div>
-                                <div>5.16%</div>
+                                <div>5.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -79,7 +79,7 @@
                             <small>
                                 <div>15 lines</div>
                                 <div>336 bytes</div>
-                                <div>0.89%</div>
+                                <div>0.91%</div>
                             </small>
                         </div>
                         <div class="field language details">
