@@ -77,3 +77,14 @@ jobs:
           plugin_languages_recent_days: 30
           plugin_languages_analysis_timeout: 30
           commits_authoring: Phillip Chaffee, phillipchaffee, phillipdensmorechaffee@gmail.com, phillip@voiceops.com
+
+      - name: LeetCode
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_user: PhillipChaffee
+          plugin_leetcode_sections: solved, skills, recent
+
